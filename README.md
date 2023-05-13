@@ -1,2 +1,2 @@
-# Metal-Slug-HTML_CSS
-Ideia aleatória de site que eu tive :"D
+# Front-End: Metal Slug
+Ideia básica de site que eu tive e coloquei em prática utilizando HTML e CSS.
